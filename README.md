@@ -28,5 +28,5 @@ A web-based machine learning app that predicts house prices based on user inputs
 - Simple and responsive UI using Bootstrap
 - Lightweight local deployment with Flask
 
-## 📂 Project Structure
+
 
